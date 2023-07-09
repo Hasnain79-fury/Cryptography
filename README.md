@@ -4,4 +4,7 @@ https://gchq.github.io/CyberChef/#recipe=From_Octal('Space')&input=NDEgNDIgNDMgN
 
 https://www.boxentriq.com/code-breaking/playfair-cipher - playfair cipher decoder
 
-https://7rocky.github.io/en/ctf/ - random solutions site
+https://7rocky.github.io/en/ctf/ - random solutions site - 
+
+https://github.com/EladBeber/CTFlearn-Writeups/tree/master/Cryptography/Medium/ALEXCTF%20CR2 - medium solutions
+
