@@ -8,3 +8,5 @@ https://7rocky.github.io/en/ctf/ - random solutions site -
 
 https://github.com/EladBeber/CTFlearn-Writeups/tree/master/Cryptography/Medium/ALEXCTF%20CR2 - medium solutions
 
+https://charcharbinks.com/post/ctf_crypto_for_beginners/#encoding - Documentation  basic overview of cryptography
+
