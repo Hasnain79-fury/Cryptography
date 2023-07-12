@@ -10,3 +10,6 @@ https://github.com/EladBeber/CTFlearn-Writeups/tree/master/Cryptography/Medium/A
 
 https://charcharbinks.com/post/ctf_crypto_for_beginners/#encoding - Documentation  basic overview of cryptography
 
+https://futureboy.us/stegano/decinput.html - steghide decoder used for image extraction
+
+
