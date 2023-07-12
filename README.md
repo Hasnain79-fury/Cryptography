@@ -12,4 +12,8 @@ https://charcharbinks.com/post/ctf_crypto_for_beginners/#encoding - Documentatio
 
 https://futureboy.us/stegano/decinput.html - steghide decoder used for image extraction
 
+https://quipqiup.com/ - for substitution cipher
+
+
+
 
