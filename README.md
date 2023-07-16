@@ -14,6 +14,10 @@ https://futureboy.us/stegano/decinput.html - steghide decoder used for image ext
 
 https://quipqiup.com/ - for substitution cipher
 
+https://ctf.support/crypto/- all ctf tools documentation
+
+
+
 
 
 
